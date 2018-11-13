@@ -4,3 +4,8 @@
 
 # For example
 devtools::install_version('tidyverse', version = '1.2.1')
+devtools::install_version('GGally', version = '1.4.0')
+devtools::install_version('broom', version = '0.4.4')
+
+
+

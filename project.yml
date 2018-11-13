@@ -14,7 +14,13 @@ long_description: |
   profiles. How can we find such groups in a statistically sound way and 
   communicate the result effectively?
   
-  [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse), which  includes the pipe operator, summarizing data, and visualizing with ggplot2; from [Correlation and Regression](https://www.datacamp.com/courses/correlation-and-regression), which includes computing correlations and regression coefficients; and from [Unsupervised Learning in R](https://www.datacamp.com/courses/unsupervised-learning-in-r), which includes PCA and KMeans clustering. We recommend that you take these courses before starting this Project.
+  This project lets you apply skills from:
+  
+  - [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse), including the pipe operator, summarizing data, and visualizing with ggplot2
+  - [Correlation and Regression](https://www.datacamp.com/courses/correlation-and-regression), including computing correlations and regression coefficients
+  - [Unsupervised Learning in R](https://www.datacamp.com/courses/unsupervised-learning-in-r), including PCA and KMeans clustering.
+  
+  We recommend that you take these courses before starting this project.
     
 time_needed: "60 minutes" # "30/45/60 minutes".
 

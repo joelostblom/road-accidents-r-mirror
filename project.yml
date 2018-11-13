@@ -18,7 +18,7 @@ long_description: |
   
   - [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse), including the pipe operator, summarizing data, and visualizing with ggplot2
   - [Correlation and Regression](https://www.datacamp.com/courses/correlation-and-regression), including computing correlations and regression coefficients
-  - [Unsupervised Learning in R](https://www.datacamp.com/courses/unsupervised-learning-in-r), including PCA and KMeans clustering.
+  - [Unsupervised Learning in R](https://www.datacamp.com/courses/unsupervised-learning-in-r), including PCA and KMeans clustering
   
   We recommend that you take these courses before starting this project.
     

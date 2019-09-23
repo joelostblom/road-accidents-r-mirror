@@ -30,7 +30,9 @@ technology: 1 # 1 == R, 2 == python, 3 == sql
 # IDs for courses that are prerequisites
 # See https://mb.datacamp.com/question/126 for IDs
 prerequisites: 
-  - 1498 # Data Visualization in R
+  - 4914 # Introduction to the Tidyverse
+  - 1799 # Correlation and Regression
+  - 1815 # Unsupervised Learning in R
 difficulty_level: 2 # 1 == easy, 2 == medium, 3 == hard
 # IDs for the topics the project covers
 # See https://authoring.datacamp.com/projects/projects-repo-structure.html#project-yml for IDs
